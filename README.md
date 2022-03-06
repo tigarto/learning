@@ -26,7 +26,7 @@ Luego en la pestaña de los request, aceptar el pull request, a continuación se
 
 ![imagen](imagen_repo_sync.png)
 
-Luego de https://www.datacamp.com/community/tutorials/git-push-pull se siguio la siguiente instrucción:
+Luego de https://www.datacamp.com/community/tutorials/git-push-pull se siguio la siguiente instrucción despues de hacer cambios y usar el **add** y el **commit**:
 
 ```
 git push 'remote_name' 'branch_name'
