@@ -26,6 +26,18 @@ Luego en la pestaña de los request, aceptar el pull request, a continuación se
 
 ![imagen](imagen_repo_sync.png)
 
+Luego de https://www.datacamp.com/community/tutorials/git-push-pull se siguio la siguiente instrucción:
+
+```
+git push 'remote_name' 'branch_name'
+```
+
+Para el caso:
+
+```
+git push -u origin Dev1
+```
+
 **Recomentacion**
 
 Ver: https://docs.microsoft.com/es-es/learn/paths/django-create-data-driven-websites/
