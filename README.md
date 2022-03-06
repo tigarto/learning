@@ -25,3 +25,7 @@ git merge upstream/Dev1
 Luego en la pestaña de los request, aceptar el pull request, a continuación se muestra como quedo.
 
 ![imagen](imagen_repo_sync.png)
+
+**Recomentacion**
+
+Ver: https://docs.microsoft.com/es-es/learn/paths/django-create-data-driven-websites/
